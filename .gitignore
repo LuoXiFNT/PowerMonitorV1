@@ -1,0 +1,35 @@
+# Keil Clean
+*.rar
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.lnp
+*.lst
+*.ini
+*.iex
+*.sct
+*.scvd
+*.uvguix
+*.dbg*
+*.uvguix.*
+
+RTE/
+Templates/
+Examples/
+ 
+!*.uvprojx
+!*.h
+!*.c
+!*.ioc
+!*.axf
+!*.bin
+!*.hex
+
+#JLINK file
+JLinkLog.txt
+*.dbgconf
+
